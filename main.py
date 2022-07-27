@@ -6,8 +6,6 @@ __version__ = "1.0"
 from openpyxl import load_workbook
 from tqdm import tqdm
 
-import pandas as pd
-
 import random
 import time
 import requests
